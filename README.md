@@ -6,7 +6,7 @@
 
 > How to migrate from CRA (with redux toolkit) to nextjs v11
 
-### ✨ [Demo](https://redux-toolkit-app-cvajru4j4-dunghd.vercel.app/)
+## ✨ [Demo](https://github.com/jellydn/redux-toolkit-app/pull/2)
 
 ## Install
 
@@ -17,7 +17,7 @@ yarn install
 ## Usage
 
 ```sh
-yarn start
+yarn dev
 ```
 
 ## Run tests
