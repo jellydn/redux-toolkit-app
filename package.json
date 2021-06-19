@@ -24,9 +24,6 @@
     "build": "next build",
     "test": "jest test"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
