@@ -1,7 +1,8 @@
 // import './App.css';
-import React from 'react';
-import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
+import React from "react";
+// @ts-expect-error Cannot find module './logo.svg' or its corresponding type declarations.ts(2307)
+import logo from "./logo.svg";
+import { Counter } from "./features/counter/Counter";
 
 function App() {
   return (

@@ -1,16 +1,18 @@
-import '../index.css'
-import '../App.css'
-import Head from 'next/head'
+import type { AppProps /*, AppContext */ } from "next/app";
+import Head from "next/head";
 
-export default function MyApp({ Component, pageProps}) {
+import "../index.css";
+import "../App.css";
+
+export default function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
         <title>React Redux App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      
+
       <Component {...pageProps} />
     </>
-  )
+  );
 }
