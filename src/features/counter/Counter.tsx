@@ -9,6 +9,7 @@ import {
   incrementIfOdd,
   selectCount,
 } from './counterSlice';
+// @ts-expect-error Cannot find module './Counter.module.css' or its corresponding type declarations.ts(2307)
 import styles from './Counter.module.css';
 
 export function Counter() {
