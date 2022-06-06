@@ -6,6 +6,8 @@
 
 > How to migrate from CRA (with redux toolkit) to nextjs v11
 
+[![How to migrate Create-React-App to NextJS 11](https://img.youtube.com/vi/PQwFb3el9pk/0.jpg)](https://www.youtube.com/watch?v=PQwFb3el9pk)
+
 ## ✨ [Demo](https://github.com/jellydn/redux-toolkit-app/pull/2)
 
 ## Install
